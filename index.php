@@ -59,24 +59,7 @@
         </div>
       </div>
       <div class="col-md-12 col-lg-4">
-        <p>
-          <a href="/"><br />
-            <img src="images/logobtnmain.jpg" class="main-logo" id="site-logo" /><br />
-          </a>
-        </p>
-        <div id="block-superfish-1" class="block block-superfish contextual-links-region last even">
-          <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-vertical sf-style-simple sf-total-items-9 sf-parent-items-0 sf-single-items-9">
-            <li id="menu-323-1" class="active-trail first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" title="" class="sf-depth-1 active">Event Lighting</a>
-            </li>
-            <li id="menu-322-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/sound-reinforcement" class="sf-depth-1">Sound Reinforcement</a>
-            </li>
-            <li id="menu-352-1" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/band-form" class="sf-depth-1">Band/Performer Info Submission Page</a>
-            </li>
-            <li id="menu-385-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/node/10" class="sf-depth-1">Corporate/Organization Contact Form Submission Page</a>
-            </li>
-            <li id="menu-395-1" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="http://audioandlights.com/image-gallery" title="" class="sf-depth-1">Gallery</a></li><li id="menu-356-1" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/live-recording" class="sf-depth-1">Live Recording</a></li><li id="menu-379-1" class="middle odd sf-item-7 sf-depth-1 sf-no-children"><a href="/blog" class="sf-depth-1">Nuge Blogger</a></li><li id="menu-380-1" class="middle even sf-item-8 sf-depth-1 sf-no-children"><a href="/node/7" class="sf-depth-1">Other Services</a></li><li id="menu-381-1" class="last odd sf-item-9 sf-depth-1 sf-no-children"><a href="/pricing-info" class="sf-depth-1">Pricing Info</a></li>
-          </ul>
-        </div>
+        <?php require_once('nav.html'); ?>
       </div>
     </div>
   </div>
