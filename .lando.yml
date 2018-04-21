@@ -1,0 +1,4 @@
+name: audio-and-lights
+recipe: lemp
+config:
+  webroot: .
